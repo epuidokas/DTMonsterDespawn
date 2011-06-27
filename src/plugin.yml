@@ -1,0 +1,6 @@
+name: DTMonsterDespawn
+main: com.DarkTide.epuidokas.DTMonsterDespawn.DTMonsterDespawnPlugin
+version: 0.1
+author: Eric Puidokas
+website: www.puidokas.com
+description: Sets monster spawning limits
